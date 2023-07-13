@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jinseonjeong.github.io/blog/static/css/main.4de67eae.css",
+    "main.js": "/jinseonjeong.github.io/blog/static/js/main.d4ed951f.js",
+    "static/js/787.f587e8d5.chunk.js": "/jinseonjeong.github.io/blog/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo.svg": "/jinseonjeong.github.io/blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jinseonjeong.github.io/blog/index.html",
+    "main.4de67eae.css.map": "/jinseonjeong.github.io/blog/static/css/main.4de67eae.css.map",
+    "main.d4ed951f.js.map": "/jinseonjeong.github.io/blog/static/js/main.d4ed951f.js.map",
+    "787.f587e8d5.chunk.js.map": "/jinseonjeong.github.io/blog/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de67eae.css",
+    "static/js/main.d4ed951f.js"
+  ]
+}
